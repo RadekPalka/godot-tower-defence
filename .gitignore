@@ -1,0 +1,17 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+
+
+# Dodatki dla wygody:
+*.tmp
+*.log
+export_presets.cfg
+
+# Systemowe śmieci
+.DS_Store
+Thumbs.db
+
+# Jeśli będziesz używać VS Code (pliki ustawień workspace)
+.vscode/
